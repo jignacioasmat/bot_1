@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 import discord
-import os
+import os a
 
 # Load environment variables from .env file
 load_dotenv()
